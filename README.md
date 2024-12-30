@@ -1,6 +1,6 @@
 # SGP
 
-This is my gorup's SGP project for sem 4.
+This is our SGP project for sem 4.
 
 
 ## Members
